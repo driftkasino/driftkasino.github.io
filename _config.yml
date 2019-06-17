@@ -1,28 +1,51 @@
-title: Drift Kasino | DK-BOT 自動下注軟體 | 極速賽車 | 北京賽車 | 幸運飛艇
-description: 極速賽車自動下注軟體
-author: Drift Kasino
-logo: https://i.imgur.com/sajFHK9.png
-github: https://github.com/driftkasino
-about: DK-BOT 自動下注軟體
+# name of the software
+name: Jekyll Docs Theme
 
-baseurl: ""
-url: ""
+project:
+    version: 0.1.0
+    download_url: https://github.com/allejo/jekyll-docs-theme/releases
 
-allowsearch: true
+license:
+    software: MIT License
+    software_url: http://opensource.org/licenses/MIT
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+    docs: CC BY 3.0
+    docs_url: http://creativecommons.org/licenses/by/3.0/
 
-share:
-  twitter_username: \#
-  fb_appid: 000000000000
+links:
+    header:
+      - title: GitHub
+        url: https://github.com/allejo/jekyll-docs-theme
+    footer:
+      - title: GitHub
+        url: https://github.com/allejo/jekyll-docs-theme
+      - title: Issues
+        url: https://github.com/allejo/jekyll-docs-theme/issues?state=open
 
+ui:
+    header:
+        color1: "#080331"
+        color2: "#673051"
+        trianglify: true
 
-enableTags: true
-tagarray: []
+social:
+    github:
+        user: allejo
+        repo: jekyll-docs-theme
+    twitter:
+        enabled: false
+        via:
+        hash:
+        account:
+    facebook:
+        enabled: false
+        profileUrl:
 
-paginate: 20
-per_page: 20
-paginate_path: "/page:num/"
+analytics:
+    google: UA-123456-1
+
+# Build settings
 markdown: kramdown
-gems: [jekyll-paginate, jekyll-gist]
+exclude:
+    - Gemfile
+    - Gemfile.lock

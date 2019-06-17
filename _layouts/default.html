@@ -1,16 +1,25 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    {% include meta.html %}
-      <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
-      <script type="text/javascript">window.baseurl = '{{ site.url }}';</script>
-      {% include css.html %}
-  </head>
+<html lang="en" class="no-js">
+    <head>
+        {% include head.html %}
+    </head>
 
-  <body class="home overflow-hidden">
-    {% include header.html %}
-    {% include main.html %}
-    {% include js.html %}
-    {% include analytics.html %}
-  </body>
+    <body>
+        {% include navigation.html %}
+        {% include jumbotron.html %}
+
+        {{ content }}
+        
+     <div style="clear:both;">
+         <br>
+          <p class="text-center">
+            <br />
+            <a target="_blank" href="{{ site.git_edit_address }}/{{ page.path }}" class="btn btn-default githubEditButton" role="button">
+              <i class="glyphicon glyphicon-pencil"></i> Improve this page
+            </a>
+          </p>
+      </div>
+        
+        {% include footer.html %}
+    </body>
 </html>

@@ -1,22 +1,46 @@
-## HCZ Material theme
+# Jekyll Docs Theme
 
-This is a simple personal material theme, best suited for personal authors, programmars, bloggers. 
+> This is a [Jekyll theme](https://github.com/allejo/jekyll-docs-theme) based on [mistic100's modification](https://github.com/mistic100/jekyll-bootstrap-doc) of the official Bootstrap documentation from a few years back.
 
-### Demo
-* [https://codeasashu.github.io/hcz-jekyll-blog](https://codeasashu.github.io/hcz-jekyll-blog/)
+Jekyll Docs Theme is provided as a theme for writing documentation for your projects instead of having a single large README file or several markdown files stored in a not so user-friendly manner.
 
-#### Feature
+This theme is still in development but is kept fairly stable; just note, there are a lot things yet to come.
 
-* Sitemap and XML Feed
-* Site Search 
-* Projects and tags
-* Paginations in homepage
-* Posts under category
-* Related Posts
-* Highlight pre
-* Next & Previous Post
-* Disqus comment
+![Theme Screenshot](https://raw.githubusercontent.com/allejo/jekyll-docs-theme/master/screenshot.png)
 
-#### Screenshot
+## Installation
 
-![Screenshot Home Page](https://raw.githubusercontent.com/ashutosh2k12/jekyllthemes/master/thumbnails/hcz-material.png  "Screenshot Home Page")
+Fork this project
+
+-or-
+
+Add this line to your Jekyll site's Gemfile:
+
+```ruby
+gem "jekyll-docs-theme"
+```
+
+And add this line to your Jekyll site's `_config.yml`:
+
+```yaml
+theme: jekyll-docs-theme
+```
+
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install jekyll-docs-theme
+
+## Development
+
+To set up your environment to develop this theme, run `bundle install`.
+
+To develop on this theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`.
+
+## License
+
+The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
