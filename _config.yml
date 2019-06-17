@@ -1,51 +1,80 @@
+# username/repository
+id: mistic100/jekyll-bootstrap-doc
 # name of the software
-name: Jekyll Docs Theme
+name: Jekyll Bootstrap Doc
+# current version of the software
+version: 1.2.0
+# licence of the software
+license: MIT License
+licenseUrl: http://opensource.org/licenses/MIT
+# extension of the favicon, blank to disable
+favicon: png
 
-project:
-    version: 0.1.0
-    download_url: https://github.com/allejo/jekyll-docs-theme/releases
+# download button
+# if download.popup is true, the download button will open a popup with several download options
+# otherwise it will simply open download.url and other options are ignored
+# if download.popup is true, any option is optional
+# download.cdn.img is optional
+download:
+  popup: true
+  url: https://github.com/mistic100/jekyll-bootstrap-doc/archive/gh-pages.zip
+  bower: jekyll-bootstrap-doc
+  npm: jekyll-bootstrap-doc
+  cdn:
+    url: https://cdnjs.com/libraries/jekyll-bootstrap-doc
+    img: https://alemangui.github.io/pizzicato/img/cdnjs.svg
+    name: cdnjs
 
-license:
-    software: MIT License
-    software_url: http://opensource.org/licenses/MIT
+# set this to true to replace the generated header navbar by _includes/navbar.html
+customNavBar: false
 
-    docs: CC BY 3.0
-    docs_url: http://creativecommons.org/licenses/by/3.0/
+# list of additional links on the right of the top menu
+headerLinks:
+  - title: GitHub
+    url: https://github.com/mistic100/jekyll-bootstrap-doc
+  - title: StrangePlanet
+    url: http://www.strangeplanet.fr
 
-links:
-    header:
-      - title: GitHub
-        url: https://github.com/allejo/jekyll-docs-theme
-    footer:
-      - title: GitHub
-        url: https://github.com/allejo/jekyll-docs-theme
-      - title: Issues
-        url: https://github.com/allejo/jekyll-docs-theme/issues?state=open
+# list if additional links on the footer
+footerLinks:
+  - title: GitHub
+    url: https://github.com/mistic100/jekyll-bootstrap-doc
+  - title: Issues
+    url: https://github.com/mistic100/jekyll-bootstrap-doc/issues?state=open
 
-ui:
-    header:
-        color1: "#080331"
-        color2: "#673051"
-        trianglify: true
+# header
+header:
+  color1: "#080331"
+  color2: "#673051"
+  trianglify: true
 
-social:
-    github:
-        user: allejo
-        repo: jekyll-docs-theme
-    twitter:
-        enabled: false
-        via:
-        hash:
-        account:
-    facebook:
-        enabled: false
-        profileUrl:
-
+# google analytics
 analytics:
-    google: UA-123456-1
+  account:
+  domain:
 
-# Build settings
-markdown: kramdown
-exclude:
-    - Gemfile
-    - Gemfile.lock
+# github buttons
+githubButton:
+  user: mistic100
+  repo: jekyll-bootstrap-doc
+
+# twitter buttons
+twitter:
+  enabled: true
+  via:
+  hash:
+  account:
+
+# facebook buttons
+facebook:
+  enabled: true
+  profileUrl:
+
+
+exclude: ['README.md', 'LICENSE', 'bower.json', 'Gemfile.lock', 'Gemfile']
+
+gems:
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-sitemap
