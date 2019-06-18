@@ -30,9 +30,9 @@ customNavBar: false
 
 # list of additional links on the right of the top menu
 headerLinks:
-  - title: GitHub
+  - title: Facebook
     url: https://github.com/mistic100/jekyll-bootstrap-doc
-  - title: StrangePlanet
+  - title: Youtube
     url: http://www.strangeplanet.fr
 
 # list if additional links on the footer
