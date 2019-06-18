@@ -15,9 +15,23 @@
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
 
+  <link href="{{site.github.url}}/assets/css/bootstrap.min.css" rel="stylesheet">
   <link href="{{site.github.url}}/assets/css/docs.min.css" rel="stylesheet">
   <link href="{{site.github.url}}/assets/css/style.css" rel="stylesheet">
+   <link href='https://fonts.googleapis.com/earlyaccess/notosanstc.css' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
+    <style>
+      * {
+        font-family: 'Arial','Noto Sans TC';
+        letter-spacing: 0.1em;
+        line-height: 1.8em;
+      }
+      h1 {
+        letter-spacing: normal;
+      }
+    </style>
+    
   <style>
     #content {
       background:{{site.header.color1}};
