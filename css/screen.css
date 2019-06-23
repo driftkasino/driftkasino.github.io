@@ -50,6 +50,16 @@ p, address {
   font-weight: 300;
   line-height: 1.4em; }
 
+.post img {
+  transition: all 0.5s ease 0s; }
+
+.post img:hover {
+  -moz-transform: scale(1.5);
+  -ms-transform: scale(1.5);
+  -o-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5); }
+
 .bottom-cta {
   background: linear-gradient(to bottom, #272727 0%, #272727 100%);
   color: #fff;
