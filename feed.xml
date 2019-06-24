@@ -1,75 +1,84 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-24T06:34:05+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">D.K-BOT</title><subtitle>Product marketing template for Jekyll.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">D.K-BOT 更新日誌</title><link href="http://localhost:4000/rules/2019/06/23/versions/" rel="alternate" type="text/html" title="D.K-BOT 更新日誌" /><published>2019-06-23T00:00:00+00:00</published><updated>2019-06-23T00:00:00+00:00</updated><id>http://localhost:4000/rules/2019/06/23/versions</id><content type="html" xml:base="http://localhost:4000/rules/2019/06/23/versions/">&lt;h1 id=&quot;正式版本&quot;&gt;&lt;strong&gt;正式版本&lt;/strong&gt;&lt;/h1&gt;
-&lt;h4 id=&quot;v101-release-on-2019-06-23&quot;&gt;&lt;strong&gt;v1.0.1 release on 2019-06-23&lt;/strong&gt;&lt;/h4&gt;
-&lt;h4 id=&quot;v100-release-on-2019-06-17&quot;&gt;&lt;strong&gt;v1.0.0 release on 2019-06-17&lt;/strong&gt;&lt;/h4&gt;
-
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-24T20:58:20+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">D.K-BOT</title><subtitle>Product marketing template for Jekyll.</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">D.K-BOT 更新日誌</title><link href="http://localhost:4000/rules/2019/06/23/versions/" rel="alternate" type="text/html" title="D.K-BOT 更新日誌" /><published>2019-06-23T00:00:00+00:00</published><updated>2019-06-23T00:00:00+00:00</updated><id>http://localhost:4000/rules/2019/06/23/versions</id><content type="html" xml:base="http://localhost:4000/rules/2019/06/23/versions/">&lt;h1 id=&quot;正式版本&quot;&gt;&lt;strong&gt;正式版本&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;v1.0.2 release on 2019-06-25&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- 修正部分已知問題
+- 開盤時重置所有殘留紀錄
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;v1.0.1 release on 2019-06-23&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- 修正部分已知問題
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;v1.0.0 release on 2019-06-17&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- 正式版發布
+- 界面美化
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;hr /&gt;
 &lt;h1 id=&quot;先前開發版本&quot;&gt;&lt;strong&gt;先前開發版本&lt;/strong&gt;&lt;/h1&gt;
-&lt;h4 id=&quot;v0031-series-release-from-2019-05-17-to-&quot;&gt;v0.031 Series release from 2019-05-17 to ???&lt;/h4&gt;
-&lt;h4 id=&quot;v0030-series-release-from-2019-05-08-to-2019-05-16&quot;&gt;v0.030 Series release from 2019-05-08 to 2019-05-16&lt;/h4&gt;
-&lt;h4 id=&quot;v0029m-release-on-2019-05-02&quot;&gt;v0.029m release on 2019-05-02&lt;/h4&gt;
-&lt;h4 id=&quot;v0029l-release-on-2019-05-01&quot;&gt;v0.029l release on 2019-05-01&lt;/h4&gt;
-&lt;h4 id=&quot;v0029k-release-on-2019-05-01&quot;&gt;v0.029k release on 2019-05-01&lt;/h4&gt;
-&lt;h4 id=&quot;v0029j-2-release-on-2019-05-01&quot;&gt;v0.029j-2 release on 2019-05-01&lt;/h4&gt;
-&lt;h4 id=&quot;v0029j-release-on-2019-04-30&quot;&gt;v0.029j release on 2019-04-30&lt;/h4&gt;
-&lt;h4 id=&quot;v0029i-release-on-2019-04-28&quot;&gt;v0.029i release on 2019-04-28&lt;/h4&gt;
-&lt;h4 id=&quot;v0029h-release-on-2019-04-27&quot;&gt;v0.029h release on 2019-04-27&lt;/h4&gt;
-&lt;h4 id=&quot;v0029g-release-on-2019-04-27&quot;&gt;v0.029g release on 2019-04-27&lt;/h4&gt;
-&lt;h4 id=&quot;v0029f-release-on-2019-04-26&quot;&gt;v0.029f release on 2019-04-26&lt;/h4&gt;
-&lt;h4 id=&quot;v0029e-release-on-2019-04-26&quot;&gt;v0.029e release on 2019-04-26&lt;/h4&gt;
-&lt;h4 id=&quot;v0029d-release-on-2019-04-24&quot;&gt;v0.029d release on 2019-04-24&lt;/h4&gt;
-&lt;h4 id=&quot;v0029c-release-on-2019-04-23&quot;&gt;v0.029c release on 2019-04-23&lt;/h4&gt;
-&lt;h4 id=&quot;v0029b-release-on-2019-04-23&quot;&gt;v0.029b release on 2019-04-23&lt;/h4&gt;
-&lt;h4 id=&quot;v0029a-release-on-2019-04-22&quot;&gt;v0.029a release on 2019-04-22&lt;/h4&gt;
-&lt;h4 id=&quot;v0029-release-on-2019-04-20&quot;&gt;v0.029 release on 2019-04-20&lt;/h4&gt;
-&lt;h4 id=&quot;v0028a-release-on-2019-04-18&quot;&gt;v0.028a release on 2019-04-18&lt;/h4&gt;
-&lt;h4 id=&quot;v0028-release-on-2019-04-18&quot;&gt;v0.028 release on 2019-04-18&lt;/h4&gt;
-&lt;h4 id=&quot;v0027c-release-on-2019-04-16&quot;&gt;v0.027c release on 2019-04-16&lt;/h4&gt;
-&lt;h4 id=&quot;v0027b-release-on-2019-04-15&quot;&gt;v0.027b release on 2019-04-15&lt;/h4&gt;
-&lt;h4 id=&quot;v0027a-release-on-2019-04-15&quot;&gt;v0.027a release on 2019-04-15&lt;/h4&gt;
-&lt;h4 id=&quot;v0027-release-on-2019-04-15&quot;&gt;v0.027 release on 2019-04-15&lt;/h4&gt;
-&lt;h4 id=&quot;v0026-release-on-2019-04-11&quot;&gt;v0.026 release on 2019-04-11&lt;/h4&gt;
-&lt;h4 id=&quot;v0025a-release-on-2019-04-09&quot;&gt;v0.025a release on 2019-04-09&lt;/h4&gt;
-&lt;h4 id=&quot;v0025-release-on-2019-04-09&quot;&gt;v0.025 release on 2019-04-09&lt;/h4&gt;
-&lt;h4 id=&quot;v0024-release-on-2019-03-30&quot;&gt;v0.024 release on 2019-03-30&lt;/h4&gt;
-&lt;h4 id=&quot;v0023f-release-on-2019-03-22&quot;&gt;v0.023f release on 2019-03-22&lt;/h4&gt;
-&lt;h4 id=&quot;v0023e-release-on-2019-03-22&quot;&gt;v0.023e release on 2019-03-22&lt;/h4&gt;
-&lt;h4 id=&quot;v0023c-release-on-2019-03-20&quot;&gt;v0.023c release on 2019-03-20&lt;/h4&gt;
-&lt;h4 id=&quot;v0023b-release-on-2019-03-19&quot;&gt;v0.023b release on 2019-03-19&lt;/h4&gt;
-&lt;h4 id=&quot;v0023a-release-on-2019-03-17&quot;&gt;v0.023a release on 2019-03-17&lt;/h4&gt;
-&lt;h4 id=&quot;v0023-release-on-2019-03-16&quot;&gt;v0.023 release on 2019-03-16&lt;/h4&gt;
-&lt;h4 id=&quot;v0022d-release-on-2019-03-16&quot;&gt;v0.022d release on 2019-03-16&lt;/h4&gt;
-&lt;h4 id=&quot;v0022c-release-on-2019-03-15&quot;&gt;v0.022c release on 2019-03-15&lt;/h4&gt;
-&lt;h4 id=&quot;v0022b-release-on-2019-03-14&quot;&gt;v0.022b release on 2019-03-14&lt;/h4&gt;
-&lt;h4 id=&quot;v0022a-release-on-2019-03-14&quot;&gt;v0.022a release on 2019-03-14&lt;/h4&gt;
-&lt;h4 id=&quot;v0022-release-on-2019-03-12&quot;&gt;v0.022 release on 2019-03-12&lt;/h4&gt;
-&lt;h4 id=&quot;v0021-release-on-2019-03-09&quot;&gt;v0.021 release on 2019-03-09&lt;/h4&gt;
-&lt;h4 id=&quot;v0020a-release-on-2019-03-07&quot;&gt;v0.020a release on 2019-03-07&lt;/h4&gt;
-&lt;h4 id=&quot;v0020-release-on-2019-03-05&quot;&gt;v0.020 release on 2019-03-05&lt;/h4&gt;
-&lt;h4 id=&quot;v0019c-release-on-2019-03-04&quot;&gt;v0.019c release on 2019-03-04&lt;/h4&gt;
-&lt;h4 id=&quot;v0019b-release-on-2019-03-04&quot;&gt;v0.019b release on 2019-03-04&lt;/h4&gt;
-&lt;h4 id=&quot;v0019a-release-on-2019-03-04&quot;&gt;v0.019a release on 2019-03-04&lt;/h4&gt;
-&lt;h4 id=&quot;v0019-release-on-2019-03-02&quot;&gt;v0.019 release on 2019-03-02&lt;/h4&gt;
-&lt;h4 id=&quot;v0018e-release-on-2019-02-27&quot;&gt;v0.018e release on 2019-02-27&lt;/h4&gt;
-&lt;h4 id=&quot;v0018d-release-on-2019-02-22&quot;&gt;v0.018d release on 2019-02-22&lt;/h4&gt;
-&lt;h4 id=&quot;v0018a-release-on-2019-02-20--2019-02-22&quot;&gt;v0.018a release on 2019-02-20 ~ 2019-02-22&lt;/h4&gt;
-&lt;h4 id=&quot;v0018-release-on-2019-02-17&quot;&gt;v0.018 release on 2019-02-17&lt;/h4&gt;
-&lt;h4 id=&quot;v0017d-release-on-2019-02-02&quot;&gt;v0.017d release on 2019-02-02&lt;/h4&gt;
-&lt;h4 id=&quot;v0017c-release-on-2019-01-30&quot;&gt;v0.017c release on 2019-01-30&lt;/h4&gt;
-&lt;h4 id=&quot;v0017b-release-on-2019-01-30&quot;&gt;v0.017b release on 2019-01-30&lt;/h4&gt;
-&lt;h4 id=&quot;v0017a-release-on-2019-01-30&quot;&gt;v0.017a release on 2019-01-30&lt;/h4&gt;
-&lt;h4 id=&quot;v0017-release-on-2019-01-30&quot;&gt;v0.017 release on 2019-01-30&lt;/h4&gt;
-&lt;h4 id=&quot;v0016-release-on-2019-01-25&quot;&gt;v0.016 release on 2019-01-25&lt;/h4&gt;
-&lt;h4 id=&quot;v0014-release-on-2019-01-17&quot;&gt;v0.014 release on 2019-01-17&lt;/h4&gt;
-&lt;h4 id=&quot;v0013-release-on-2019-01-15&quot;&gt;v0.013 release on 2019-01-15&lt;/h4&gt;
-&lt;h4 id=&quot;v0012-release-on-2019-01-14&quot;&gt;v0.012 release on 2019-01-14&lt;/h4&gt;
-&lt;h4 id=&quot;v0011-release-on-2019-01-13&quot;&gt;v0.011 release on 2019-01-13&lt;/h4&gt;
-&lt;h4 id=&quot;v0010-release-on-2019-01-06&quot;&gt;v0.010 release on 2019-01-06&lt;/h4&gt;
-&lt;h4 id=&quot;v0009-release-on-2019-01-06&quot;&gt;v0.009 release on 2019-01-06&lt;/h4&gt;
-&lt;h4 id=&quot;v0008-release-on-2019-01-05&quot;&gt;v0.008 release on 2019-01-05&lt;/h4&gt;
-&lt;h4 id=&quot;v0007-release-on-2019-01-05&quot;&gt;v0.007 release on 2019-01-05&lt;/h4&gt;
-&lt;h4 id=&quot;v0006-release-on-2019-01-02&quot;&gt;v0.006 release on 2019-01-02&lt;/h4&gt;
-&lt;h4 id=&quot;v0005-release-on-2018-12-26&quot;&gt;v0.005 release on 2018-12-26&lt;/h4&gt;
-&lt;hr /&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">正式版本 v1.0.1 release on 2019-06-23 v1.0.0 release on 2019-06-17</summary></entry><entry><title type="html">程式規章</title><link href="http://localhost:4000/rules/2019/06/20/rules/" rel="alternate" type="text/html" title="程式規章" /><published>2019-06-20T00:00:00+00:00</published><updated>2019-06-20T00:00:00+00:00</updated><id>http://localhost:4000/rules/2019/06/20/rules</id><content type="html" xml:base="http://localhost:4000/rules/2019/06/20/rules/">&lt;h4 id=&quot;1下載軟體即同意自負所有責任問題&quot;&gt;1.下載軟體即同意自負所有責任問題。&lt;/h4&gt;
-&lt;h4 id=&quot;2本軟體為贊助者自願贊助使用並無任何強迫或推銷&quot;&gt;2.本軟體為贊助者自願贊助使用，並無任何強迫或推銷。&lt;/h4&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;v0.031 Series release from 2019-05-17 to 2019-05-30
+v0.030 Series release from 2019-05-08 to 2019-05-16
+v0.029m release on 2019-05-02
+v0.029l release on 2019-05-01
+v0.029k release on 2019-05-01
+v0.029j-2 release on 2019-05-01
+v0.029j release on 2019-04-30
+v0.029i release on 2019-04-28
+v0.029h release on 2019-04-27
+v0.029g release on 2019-04-27
+v0.029f release on 2019-04-26
+v0.029e release on 2019-04-26
+v0.029d release on 2019-04-24
+v0.029c release on 2019-04-23
+v0.029b release on 2019-04-23
+v0.029a release on 2019-04-22
+v0.029 release on 2019-04-20
+v0.028a release on 2019-04-18
+v0.028 release on 2019-04-18
+v0.027c release on 2019-04-16
+v0.027b release on 2019-04-15
+v0.027a release on 2019-04-15
+v0.027 release on 2019-04-15
+v0.026 release on 2019-04-11
+v0.025a release on 2019-04-09
+v0.025 release on 2019-04-09
+v0.024 release on 2019-03-30
+v0.023f release on 2019-03-22
+v0.023e release on 2019-03-22
+v0.023c release on 2019-03-20
+v0.023b release on 2019-03-19
+v0.023a release on 2019-03-17
+v0.023 release on 2019-03-16
+v0.022d release on 2019-03-16
+v0.022c release on 2019-03-15
+v0.022b release on 2019-03-14
+v0.022a release on 2019-03-14
+v0.022 release on 2019-03-12
+v0.021 release on 2019-03-09
+v0.020a release on 2019-03-07
+v0.020 release on 2019-03-05
+v0.019c release on 2019-03-04
+v0.019b release on 2019-03-04
+v0.019a release on 2019-03-04
+v0.019 release on 2019-03-02
+v0.018e release on 2019-02-27
+v0.018d release on 2019-02-22
+v0.018a release on 2019-02-20
+v0.018 release on 2019-02-17
+v0.017d release on 2019-02-02
+v0.017c release on 2019-01-30
+v0.017b release on 2019-01-30
+v0.017a release on 2019-01-30
+v0.017 release on 2019-01-30
+v0.016 release on 2019-01-25
+v0.014 release on 2019-01-17
+v0.013 release on 2019-01-15
+v0.012 release on 2019-01-14
+v0.011 release on 2019-01-13
+v0.010 release on 2019-01-06
+v0.009 release on 2019-01-06
+v0.008 release on 2019-01-05
+v0.007 release on 2019-01-05
+v0.006 release on 2019-01-02
+v0.005 release on 2018-12-26
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;hr /&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">正式版本 v1.0.2 release on 2019-06-25 - 修正部分已知問題 - 開盤時重置所有殘留紀錄 v1.0.1 release on 2019-06-23 - 修正部分已知問題 v1.0.0 release on 2019-06-17 - 正式版發布 - 界面美化 先前開發版本 v0.031 Series release from 2019-05-17 to 2019-05-30 v0.030 Series release from 2019-05-08 to 2019-05-16 v0.029m release on 2019-05-02 v0.029l release on 2019-05-01 v0.029k release on 2019-05-01 v0.029j-2 release on 2019-05-01 v0.029j release on 2019-04-30 v0.029i release on 2019-04-28 v0.029h release on 2019-04-27 v0.029g release on 2019-04-27 v0.029f release on 2019-04-26 v0.029e release on 2019-04-26 v0.029d release on 2019-04-24 v0.029c release on 2019-04-23 v0.029b release on 2019-04-23 v0.029a release on 2019-04-22 v0.029 release on 2019-04-20 v0.028a release on 2019-04-18 v0.028 release on 2019-04-18 v0.027c release on 2019-04-16 v0.027b release on 2019-04-15 v0.027a release on 2019-04-15 v0.027 release on 2019-04-15 v0.026 release on 2019-04-11 v0.025a release on 2019-04-09 v0.025 release on 2019-04-09 v0.024 release on 2019-03-30 v0.023f release on 2019-03-22 v0.023e release on 2019-03-22 v0.023c release on 2019-03-20 v0.023b release on 2019-03-19 v0.023a release on 2019-03-17 v0.023 release on 2019-03-16 v0.022d release on 2019-03-16 v0.022c release on 2019-03-15 v0.022b release on 2019-03-14 v0.022a release on 2019-03-14 v0.022 release on 2019-03-12 v0.021 release on 2019-03-09 v0.020a release on 2019-03-07 v0.020 release on 2019-03-05 v0.019c release on 2019-03-04 v0.019b release on 2019-03-04 v0.019a release on 2019-03-04 v0.019 release on 2019-03-02 v0.018e release on 2019-02-27 v0.018d release on 2019-02-22 v0.018a release on 2019-02-20 v0.018 release on 2019-02-17 v0.017d release on 2019-02-02 v0.017c release on 2019-01-30 v0.017b release on 2019-01-30 v0.017a release on 2019-01-30 v0.017 release on 2019-01-30 v0.016 release on 2019-01-25 v0.014 release on 2019-01-17 v0.013 release on 2019-01-15 v0.012 release on 2019-01-14 v0.011 release on 2019-01-13 v0.010 release on 2019-01-06 v0.009 release on 2019-01-06 v0.008 release on 2019-01-05 v0.007 release on 2019-01-05 v0.006 release on 2019-01-02 v0.005 release on 2018-12-26</summary></entry><entry><title type="html">程式規章</title><link href="http://localhost:4000/rules/2019/06/20/rules/" rel="alternate" type="text/html" title="程式規章" /><published>2019-06-20T00:00:00+00:00</published><updated>2019-06-20T00:00:00+00:00</updated><id>http://localhost:4000/rules/2019/06/20/rules</id><content type="html" xml:base="http://localhost:4000/rules/2019/06/20/rules/">&lt;h4 id=&quot;1下載軟體即同意自負所有責任問題&quot;&gt;1.下載軟體即同意自負所有責任問題。&lt;/h4&gt;
+&lt;h4 id=&quot;2本軟體為贊助者自願贊助使用並無任何強迫或推銷贊助後恕不退款&quot;&gt;2.本軟體為贊助者自願贊助使用，並無任何強迫或推銷，贊助後恕不退款。&lt;/h4&gt;
 &lt;h4 id=&quot;3本軟體僅提供於彩票開獎預測及數學等學術研究使用並無鼓勵任何博弈行為&quot;&gt;3.本軟體僅提供於彩票開獎預測及數學等學術研究使用，並無鼓勵任何博弈行為。&lt;/h4&gt;
-&lt;h4 id=&quot;4如因任何網路因素平台因素賠率變動導致程式發生非預期情形本軟體概不負責&quot;&gt;4.如因任何網路因素、平台因素(賠率變動)，導致程式發生非預期情形，本軟體概不負責。&lt;/h4&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">1.下載軟體即同意自負所有責任問題。 2.本軟體為贊助者自願贊助使用，並無任何強迫或推銷。 3.本軟體僅提供於彩票開獎預測及數學等學術研究使用，並無鼓勵任何博弈行為。 4.如因任何網路因素、平台因素(賠率變動)，導致程式發生非預期情形，本軟體概不負責。</summary></entry></feed>
+&lt;h4 id=&quot;4如因任何網路因素平台因素賠率變動導致程式發生非預期情形本軟體概不負責&quot;&gt;4.如因任何網路因素、平台因素(賠率變動)，導致程式發生非預期情形，本軟體概不負責。&lt;/h4&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><summary type="html">1.下載軟體即同意自負所有責任問題。 2.本軟體為贊助者自願贊助使用，並無任何強迫或推銷，贊助後恕不退款。 3.本軟體僅提供於彩票開獎預測及數學等學術研究使用，並無鼓勵任何博弈行為。 4.如因任何網路因素、平台因素(賠率變動)，導致程式發生非預期情形，本軟體概不負責。</summary></entry></feed>
